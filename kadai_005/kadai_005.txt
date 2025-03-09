@@ -1,0 +1,10 @@
+  cd Git_Tutorial
+  cd git_challenge
+  git add hello_world.txt
+  git commit -m "hello_worldを追加"
+  git add hello_world.txt
+  git commit -m "日本語訳を追記"
+  git status
+  git diff
+  git log
+  git log --oneline
