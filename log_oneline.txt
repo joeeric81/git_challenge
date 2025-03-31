@@ -1,0 +1,8 @@
+1df21b9 課題の提出
+11f1051 日本語訳を追記
+537609d hello_world.txtを追加
+6c5d138 Delete hello_world.txt
+e7e1ea8 Delete kadai_005 directory
+80584b0 課題の提出です
+99b0c0b 日本語訳を追記
+d3c7530 hello_worldを追加
